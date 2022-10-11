@@ -1,0 +1,84 @@
+[
+    {
+      "question": "Which language runs in a web browser?",
+      "opt1": "Java",
+      "opt2": "C",
+      "opt3": "Python",
+      "opt4": "JavaScript",
+      "correct": "opt4"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "opt1": "Central Style Sheets",
+      "opt2": "Cascading Style Sheets",
+      "opt3": "Cascading Simple Sheets",
+      "opt4": "Cars SUVs Sailboats",
+      "correct": "opt2"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "opt1": "Hypertext Markup Language",
+      "opt2": "Hypertext Markdown Language",
+      "opt3": "Hyperloop Machine Language",
+      "opt4": "Helicopters Terminals Motorboats Lamborginis",
+      "correct": "opt1"
+    },
+    {
+      "question": "What year was JavaScript launched?",
+      "opt1": "1996",
+      "opt2": "1995",
+      "opt3": "1994",
+      "opt4": "none of the above",
+      "correct": "opt2"
+    }
+    ,
+    {
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "opt1": "javascript",
+      "opt2": "script",
+      "opt3": "scripting",
+      "opt4": "none of the above",
+      "correct": "opt2"
+    },
+    {
+      "question": "Which of the following keywords is used to define a variable in Javascript?",
+      "opt1": "Var",
+      "opt2": "let",
+      "opt3": "Both A & B",
+      "opt4": "none of the above",
+      "correct": "opt3"
+    },
+    {
+      "question": "Which of the following methods is used to access HTML elements using Javascript?",
+      "opt1": "getElementById",
+      "opt2": "getElementByClassName",
+      "opt3": "Both A & B",
+      "opt4": "none of the above",
+      "correct": "opt3"
+    },
+    {
+      "question": "Which of the following methods can be used to display data in some form using Javascript?",
+      "opt1": "document.write",
+      "opt2": "console.log",
+      "opt3": "window.alert",
+      "opt4": "All of the above",
+      "correct": "opt4"
+    },
+    {
+      "question": "How can a datatype be declared to be a constant type?",
+      "opt1": "const",
+      "opt2": "var",
+      "opt3": "let",
+      "opt4": "constant",
+      "correct": "opt1"
+    },
+    {
+      "question": "What keyword is used to check whether a given property is valid or not?",
+      "opt1": "in",
+      "opt2": "is in",
+      "opt3": "exists",
+      "opt4": "lies",
+      "correct": "opt1"
+    }
+  
+  ]
